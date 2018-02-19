@@ -50,6 +50,7 @@ def primeFactorsM2(ran):
         if count == 1:
             break
     #Returing the largest factor
+    print(factors)
     return max(factors)
 
 #Function for checking if a number is prime

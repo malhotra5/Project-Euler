@@ -5,4 +5,6 @@ All these problems are purely algorithmic in nature. They are all written from s
 ### Prerequisites
 * Math (provides access to the mathematical functions defined by the C standard)
 ### Installation
-*No intallation is required. Math is already provided when python is downloaded.*
+*No intallation is required. Math module is already provided when python is downloaded.*
+## Built with
+* Python3
